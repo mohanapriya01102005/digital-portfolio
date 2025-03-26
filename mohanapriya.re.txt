@@ -1,0 +1,11 @@
+personal details
+
+name:Mohanapriya.S
+date of birth:01.10.2005
+gender:female  
+
+education
+department:BCA
+university:Bharathidhasan university
+
+
